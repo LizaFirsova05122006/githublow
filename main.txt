@@ -1,1 +1,1 @@
-Main + Master_M + Develop_M + Release1.3.0
+Main + Master_M + Develop_M + Release1.3.0 + Release1.3.0
