@@ -1,1 +1,1 @@
-Main + Master_V + Develop_V
+Main + Master_V + Develop_V + Release1.2.0
